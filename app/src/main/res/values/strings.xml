@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="play_again">Play Again</string>
+    <string name="new_game">New Game</string>
+    <string name="player_2_0"><![CDATA[Player 2->0]]></string>
+    <string name="player_1_0"><![CDATA[Player 1-> 0]]></string>
+</resources>
